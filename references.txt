@@ -1,0 +1,9 @@
+1.	D’Gama AM, Woodworth MB, Hossain AA, Bizzotto S, Hatem NE, LaCoursiere CM, et al. Somatic Mutations Activating the mTOR Pathway in Dorsal Telencephalic Progenitors Cause a Continuum of Cortical Dysplasias. Cell Reports 2017;21: 3754–3766. doi:10.1016/j.celrep.2017.11.106
+2.	Kariminejad R, Lind-Thomsen A, Tümer Z, Erdogan F, Ropers HH, Tommerup N, et al. High frequency of rare copy number variants affecting functionally related genes in patients with structural brain malformations. Hum Mutat. 2011;32: 1427–1435. doi:10.1086/431216
+3.	Higuchi M, Maas S, Single FN, Hartner J, Rozov A, Burnashev N, et al. Point mutation in an AMPA receptor gene rescues lethality in mice deficient in the RNA-editing enzyme ADAR2. Nature. 2000;406: 78–81. doi:10.1038/35017558
+4.	Srivastava PK, Bagnati M, Delahaye-Duriez A, Ko J-H, Rotival M, Langley SR, et al. Genome-wide analysis of differential RNA editing in epilepsy. Genome Research. 2017;27: 440–450. doi:10.1101/gr.210740.116
+5.	Tan MH, Li Q, Shanmugam R, Piskol R, Kohler J, Young AN, et al. Dynamic landscape and regulation of RNA editing in mammals. Nature. Nature Publishing Group; 2017;550: 249–254. doi:10.1038/nature24041
+6.	Slotkin W, Nishikura K. Adenosine-to-inosine RNA editing and human disease. Genome Med. 2013;5: 105. doi:10.1186/gm508
+7.	Gaulton A, Bellis LJ, Bento AP, Chambers J, Davies M, Hersey A, et al. ChEMBL: a large-scale bioactivity database for drug discovery. Nucleic Acids Research. 2012;40: D1100–7. doi:10.1093/nar/gkr777
+
+
